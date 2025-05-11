@@ -13,5 +13,7 @@ def main():
         print(state)
         #info = line.split(",")
 
+    myFile.close()
+    
 if __name__ == '__main__':
     main()
